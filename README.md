@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, I'm Daphné 👋
 
-I'm a second year student at EPFL (École Polytechnique Fédérale de Lausanne, in Switzerland \U0001F1E8\U0001F1ED
-), in the Chemistry and Chemical Engineering section. 
+Welcome to my profile!
+
+*My current studies 🔬
+I'm a second year student at EPFL (École Polytechnique Fédérale de Lausanne, in Switzerland 🇨🇭),
+in the Chemistry and Chemical Engineering section. 
